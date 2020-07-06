@@ -7,6 +7,10 @@ def nyc_pigeon_organizer(data)
     value.each do |key2, names|
       
       names.each do |name|
+        
+        if !final_array[name]
+        end 
+        
       end 
       
     end 
